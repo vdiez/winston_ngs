@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/vdiez/winston_ngs.git"
+    "url": "git@github.com:vdiez/winston_ngs.git"
   },
   "keywords": [
     "winston"
