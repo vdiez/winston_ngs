@@ -1,0 +1,26 @@
+{
+  "name": "winston_ngs",
+  "version": "1.0.0",
+  "description": "winston custom configuration for NGS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/vdiez/winston_ngs.git"
+  },
+  "keywords": [
+    "winston"
+  ],
+  "author": "Victor Diez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vdiez/winston_ngs/issues"
+  },
+  "homepage": "https://gitlab.com/vdiez/winston_ngs#README",
+  "dependencies": {
+    "moment": "*",
+    "winston": "*"
+  }
+}
