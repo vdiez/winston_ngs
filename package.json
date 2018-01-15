@@ -21,6 +21,6 @@
   "homepage": "https://gitlab.com/vdiez/winston_ngs#README",
   "dependencies": {
     "moment": "*",
-    "winston": "*"
+    "winston": "2.4.0"
   }
 }
