@@ -1,5 +1,5 @@
 {
-  "name": "winston",
+  "name": "winston_ngs",
   "version": "1.0.0",
   "description": "winston custom configuration for NGS",
   "main": "index.js",
@@ -21,6 +21,6 @@
   "homepage": "https://gitlab.com/vdiez/winston_ngs#README",
   "dependencies": {
     "moment": "*",
-    "winston": "git+https://github.com/winstonjs/winston.git#2.4.0"
+    "winston": "*"
   }
 }
