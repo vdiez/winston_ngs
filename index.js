@@ -1,4 +1,4 @@
-let winston = require('winston');
+let winston = require('winston@2.4.0');
 let moment = require('moment');
 
 winston.level = 'silly';

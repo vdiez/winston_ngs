@@ -21,6 +21,6 @@
   "homepage": "https://gitlab.com/vdiez/winston_ngs#README",
   "dependencies": {
     "moment": "*",
-    "winston": "2.4.0"
+    "winston": "git+https://github.com/winstonjs/winston.git#2.4.0"
   }
 }
